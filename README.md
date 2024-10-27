@@ -4,16 +4,19 @@
 Goku & Friends is an application that allows users to explore a database of heroes from the famous Dragon Ball saga. The app offers features like viewing hero information, associated locations, and iconic transformations. It uses a data persistence system with Core Data and secure access to information using Keychain.
 
 ## Photos
-Below are screenshots showcasing the app:
 
-- **Login Screen**: 
-  ![Login Screen](https://i.imgur.com/Vnz7EX8.png)
+*Login Screen*
 
-- **Heroes and Map View**: 
-  ![Heroes and Map View](https://i.imgur.com/QTQI6Gn.png)
+![Login Screen](https://i.imgur.com/Vnz7EX8.png)
 
-- **Transformations**: 
-  ![Transformations](https://i.imgur.com/GU9crlN.png)
+*Heroes and Map View*
+
+![Heroes and Map View](https://i.imgur.com/QTQI6Gn.png)
+
+*Transformations*
+
+![Transformations](https://i.imgur.com/GU9crlN.png)
+
 
 ## Key Features
 - **Splash Screen:** A welcome screen that redirects to the login screen or the list of heroes if an active session already exists.
